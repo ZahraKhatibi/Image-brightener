@@ -9,8 +9,6 @@ The program processes only valid BMP files in the specified directory, which mus
 - [File Structure](#file-structure)
 - [Usage](#usage)
 - [Functions](#functions)
-- [Dependencies](#dependencies)
-- [License](#license)
 
 ## File Structure
 

@@ -61,6 +61,3 @@ This function calculates an index for accessing pixel data in the `pixel_list` a
 
 This function applies a lightening effect to an image.
 
-### `exit`
-
-This function terminates the program.
